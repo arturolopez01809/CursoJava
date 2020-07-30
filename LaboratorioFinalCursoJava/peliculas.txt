@@ -1,0 +1,3 @@
+Pelicula{nombre=Batman}
+Pelicula{nombre=aquaman}
+Pelicula{nombre=nemo}
