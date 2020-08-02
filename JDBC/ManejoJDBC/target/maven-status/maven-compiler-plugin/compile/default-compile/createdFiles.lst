@@ -1,0 +1,5 @@
+domain\Persona.class
+datos\Conexion.class
+test\testMySqlJDBC.class
+datos\PersonaDAO.class
+test\TestManejoPersonas.class
